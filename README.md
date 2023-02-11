@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcos Oliveira 👋
 
 - 🔭 Hoje trabalho como desenvolvedor back-end.
-- 🌱 Estou aprendendo Java e ecossistema Spring.
+- 🌱 Estou trabalhando com Java e Spring.
 - 📫 Contatos: marcos-oliveiragv@hotmail.com
 - 😄 Pronomes: ele/dele
 
