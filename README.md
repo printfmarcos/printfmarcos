@@ -26,9 +26,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="Tomcat"  height="60" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg">
-<img align="center" alt="GitHub"  height="50" width="55"
+<img  align="center" alt="Docker"  height="60" width="55"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+<img  align="center" alt="Aws"  height="60" width="80"
+src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/aws-icon.png">
+<img align="center" alt="GitHub"  height="60" width="80"
 src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png">
 <div>
+  
 <br><br>
 
 ## 🛠 &nbsp;Vamos conversar?
